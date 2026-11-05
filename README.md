@@ -16,11 +16,13 @@ analysing healthcare industry research, market sizing, competitive intelligence,
 - Strategy: opportunities, risks, commercial and operational workstreams, and testable recommendations.
 
 ## Key analytical caveats
-1. Broad domestic pharma market estimates and narrower domestic formulation/IPM sales estimates are different measures. They are shown separately and must not be added together.
-2. Peer EBITDA definitions can vary by company. Margins are calculated as reported EBITDA divided by reported revenue and are directional, not perfectly accounting-comparable.
-3. The peer group is selected for strategic relevance and scale; it is not a claim that these are the five largest Indian pharma companies under every ranking.
-4. Therapy share and CAGR estimates are selected public-market indicators and may use different snapshots or scopes.
-5. All recommendations are analyst hypotheses requiring validation; this is not investment advice.
+1. Broad domestic pharma market estimates and narrower domestic formulation/IPM sales.
+2. They are shown separately and must not be added together.
+3. Peer EBITDA definitions can vary by company.
+4. Margins are calculated as reported EBITDA divided by reported revenue and are directional, not perfectly accounting-comparable.
+5. The peer group is selected for strategic relevance and scale
+6. Therapy share and CAGR estimates are selected public-market indicators and may use different snapshots or scopes.
+7. All recommendations are analyst hypotheses requiring validation; this is not investment advice.
 
 ## Methods demonstrated
 - Market sizing concepts, CAGR and scenario framing
@@ -31,12 +33,7 @@ analysing healthcare industry research, market sizing, competitive intelligence,
 - Excel formulas, conditional formatting, charts and linked source register
 - PowerPoint storyline and executive-ready synthesis
 
-## Suggested extensions
-- Add 3–5 years of company financials and build a revenue / EBITDA bridge.
-- Add a price-volume-mix decomposition for domestic market growth.
-- Build a Tableau / Power BI dashboard from the peer and therapy datasets.
-- Add a Python notebook for data ingestion, cleaning, validation and chart generation.
+## what i could to next
 - Add a commercial due diligence case on one therapy area or molecule class.
 
-## Reproduction
-The workbook and deck are supplied as finished deliverables. Source data and bibliography are available in `data/` and `references.md`.
+.
