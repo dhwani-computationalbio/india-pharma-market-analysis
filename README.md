@@ -1,6 +1,6 @@
 # Indian Pharmaceutical Industry — Market Intelligence & Competitive Benchmarking
 
-A consulting-style public-source research project designed to demonstrate entry-level analyst capabilities across industry research, market sizing, competitive intelligence, financial benchmarking, Excel modelling and executive communication.
+analysing healthcare industry research, market sizing, competitive intelligence, financial benchmarking, Excel modelling and executive communication.
 
 ## Deliverables
 - `India_Pharma_Competitive_Benchmark.xlsx` — workbook with market snapshot, peer financials, therapy mix, strategic analysis, analyst toolkit and source register.
@@ -10,7 +10,7 @@ A consulting-style public-source research project designed to demonstrate entry-
 - `analyst_workplan.md` — project workplan and analytical approach.
 
 ## Research scope
-- Market context: FY26 market indicators and 2030 projections where publicly available.
+- Market context: FY26 market indicators and 2030 projections (if possible).
 - Company benchmark: FY25 consolidated financials for Sun Pharma, Dr. Reddy's, Cipla, Lupin and Zydus Lifesciences.
 - Therapeutic mix: selected therapy-area shares and historical growth indicators.
 - Strategy: opportunities, risks, commercial and operational workstreams, and testable recommendations.
